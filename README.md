@@ -4,6 +4,7 @@
 
 A pc signature generator that can be used to implement copy protection or licensing software to node-lock your delivered software.
 
+
 ## License
 The project is donated to the community. It comes with a very large freedom of use for everyone, and it will always be. 
 It uses a [BSD 3 clauses](https://opensource.org/licenses/BSD-3-Clause) licensing schema, that allows free modification and inclusion in commercial software.
@@ -25,4 +26,4 @@ cd bin
 ```
 
 # How to contribute
-New ways of obtaining serial nos from motherboard, RAM, chassis etc (a la dmidecode) would be welcome. 
+New ways of obtaining serial nos from motherboard, RAM, chassis etc (a la dmidecode) would be welcome. As would be any ideas telling me how wrong this is.
