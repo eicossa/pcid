@@ -1,9 +1,9 @@
 CXX		  := g++
-CXX_FLAGS := -Wall -Wextra -std=c++17 -ggdb
+CXX_FLAGS         := -Wall -Wextra -std=c++17 -ggdb
 
 BIN		:= bin
 SRC		:= src
-INC  	:= inc
+INC  	        := inc
 LIB		:= lib
 
 BOOST_ROOT := /usr/lib/x86_64-linux-gnu/
